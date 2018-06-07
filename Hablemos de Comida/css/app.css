@@ -1,0 +1,30 @@
+body {
+	background-image: url('../images/image-1.jpg');
+}
+
+.contenedor {
+	 background-color:rgba(165, 165, 165, 0.5); /* rgbA */
+	 margin: 0px 15px 0px 15px;
+	 height: auto;
+}
+
+.header {
+	background-color:rgba(165, 165, 165, 0.5); /* rgbA */
+	color: white;
+	padding-top: 30px;
+	width: 100%;
+	height: 220px;
+}
+
+.columna-menu {
+	background-color: #E4EDDB;
+}
+
+.columna-main {
+	background-color: #FAFAF6;
+	padding: 30px;
+}
+
+.caja-favoritos {
+	padding: 5px;
+}
